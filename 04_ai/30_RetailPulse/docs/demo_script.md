@@ -35,6 +35,8 @@ Ask:
 Then:
 
 > Why are returns elevated for this product? Combine return metrics with reviews, support cases, and product guidance. Separate evidence from hypotheses.
+>
+> The promotion dates are tied to the day you ran 04, so they will drift. Before any client demo, re-run 04 and then 05 so the “active promotion” window is current.
 
 The Agent should combine Cortex Analyst results with Cortex Search evidence about reservoir leakage and setup confusion. If Search is unavailable, use the structured product-experience metrics and show the SQL fallback document view.
 
